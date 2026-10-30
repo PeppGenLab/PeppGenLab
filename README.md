@@ -1,16 +1,24 @@
-## Hi there 👋
+# Resources
+Collection of useful links and resources for visitors of the Pepperdine Makerspaces
 
-<!--
-**PeppGenLab/PeppGenLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Extended Hours Survey
+https://forms.gle/HRGsx8XfM9UefBBJ9
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 3D Printing Links
+## Request Form:
+https://forms.gle/CTpHbVP243kZJVubA
+
+## Find Prints
+https://makerworld.com/en
+
+https://www.thingiverse.com/
+
+https://www.printables.com/
+
+# Other Sites/Resources
+https://library.pepperdine.edu/visit/contact/spaces/gen-lab.htm
+
+https://infoguides.pepperdine.edu/genesislab
+
+### If you have any inquiries, you can contact us at peppgenesislab@gmail.com
